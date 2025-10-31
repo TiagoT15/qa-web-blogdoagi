@@ -1,0 +1,14 @@
+{
+  "validTerms": [
+    "férias",
+    "programação",
+    "desenvolvimento",
+    "javascript",
+    "python"
+  ],
+  "invalidTerms": [
+    "xyzabc123456",
+    "termoinexistente999",
+    "palavraaleatoria2024"
+  ]
+}
